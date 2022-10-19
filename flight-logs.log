@@ -1,0 +1,82 @@
+2022-09-05 12:45:25,033:db_config:CRITICAL:The database does not exist, please check the connection string
+2022-09-05 12:45:25,042:DbRepo:CRITICAL:(psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  password authentication failed for user "postgres"
+
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+2022-09-05 13:27:30:54,325:db_config:CRITICAL:The database does not exist, please check the connection string
+2022-09-05 13:27:54,356:DbRepo:CRITICAL:(psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  password authentication failed for user "postgres"
+
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+2022-09-05 18:26:00,605:DbRepo:CRITICAL:(psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  password authentication failed for user "postgres"
+
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+2022-09-05 18:26:00,613:DbRepo:CRITICAL:(psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  password authentication failed for user "postgres"
+
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+2022-09-05 18:26:00,620:DbRepo:CRITICAL:(psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  password authentication failed for user "postgres"
+
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+2022-09-05 18:26:00,627:DbRepo:CRITICAL:(psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  password authentication failed for user "postgres"
+
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+2022-09-05 18:26:00,635:DbRepo:CRITICAL:(psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  password authentication failed for user "postgres"
+
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+2022-09-05 18:26:00,640:DbRepo:CRITICAL:(psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  password authentication failed for user "postgres"
+
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+2022-09-05 18:26:00,645:DbRepo:CRITICAL:(psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  password authentication failed for user "postgres"
+
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+2022-09-05 18:26:00,654:DbRepo:CRITICAL:(psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  password authentication failed for user "postgres"
+
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+2022-09-05 18:26:00,670:DbRepo:CRITICAL:(psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  password authentication failed for user "postgres"
+
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+2022-09-05 18:27:06,700:db_config:CRITICAL:The database does not exist, please check the connection string
+2022-09-05 18:27:06,710:DbRepo:CRITICAL:(psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  password authentication failed for user "postgres"
+
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+2022-09-05 18:27:52,255:db_config:CRITICAL:The database does not exist, please check the connection string
+2022-09-05 18:27:52,270:DbRepo:CRITICAL:(psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  password authentication failed for user "postgres"
+
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+2022-09-05 19:18:46,358:db_config:CRITICAL:The database does not exist, please check the connection string
+2022-09-05 19:18:46,364:DbRepo:CRITICAL:(psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  password authentication failed for user "postgres"
+
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+2022-09-05 19:23:55,126:db_config:CRITICAL:The database does not exist, please check the connection string
+2022-09-05 19:23:55,134:DbRepo:CRITICAL:(psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  password authentication failed for user "postgres"
+
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+2022-09-05 19:24:38,726:DbRepo:CRITICAL:(psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  password authentication failed for user "postgres"
+
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+2022-09-05 19:24:38,732:DbRepo:CRITICAL:(psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  password authentication failed for user "postgres"
+
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+2022-09-05 19:24:38,740:DbRepo:CRITICAL:(psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  password authentication failed for user "postgres"
+
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+2022-09-05 19:24:38,749:DbRepo:CRITICAL:(psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  password authentication failed for user "postgres"
+
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+2022-09-05 19:24:38,757:DbRepo:CRITICAL:(psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  password authentication failed for user "postgres"
+
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+2022-09-05 19:24:38,761:DbRepo:CRITICAL:(psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  password authentication failed for user "postgres"
+
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+2022-09-05 19:24:38,766:DbRepo:CRITICAL:(psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  password authentication failed for user "postgres"
+
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+2022-09-05 21:27:38,770:DbRepo:CRITICAL:(psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  password authentication failed for user "postgres"
+
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+2022-09-05 21:27:38,783:DbRepo:CRITICAL:(psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  password authentication failed for user "postgres"
+
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+2022-09-05 21:27:55,802:db_config:CRITICAL:The database does not exist, please check the connection string
+2022-09-05 21:27:55,812:DbRepo:CRITICAL:(psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  password authentication failed for user "postgres"
+
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
